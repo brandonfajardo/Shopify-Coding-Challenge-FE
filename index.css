@@ -1,0 +1,60 @@
+.Container {
+    background-color: #000639;
+    padding: 50px;
+}
+
+p {
+    font-size: 16px;
+    color: #FFF;
+}
+
+.Title {
+    font-size: 24px;
+    width: 500px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.SubTitle {
+    text-align: center;
+    font-weight: lighter;
+    margin-top: 15px;
+}
+
+.SubmitContainer {
+    margin: 0 auto;
+    display: block;
+    width: 470px;
+}
+
+.UnSubscribe {
+    margin-top: 10px;
+    text-align: center;
+    font-weight: lighter;
+}
+
+.SignUpMessage {
+    font-size: 13px;
+    text-align: center;
+    margin-top: 5px;
+    display: none;
+}
+
+.btn {
+    background-color: #5c6ac4 !important;
+    color: #FFF;
+    font-size: 13px;
+    width: 32%;
+    margin-left: 8px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    cursor: pointer;
+}
+
+.form-control {
+    width: 65% !important;
+    float: left;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    font-size: 13px;
+}
